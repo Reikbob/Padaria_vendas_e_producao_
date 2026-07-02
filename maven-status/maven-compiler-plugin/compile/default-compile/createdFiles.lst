@@ -1,0 +1,5 @@
+com\mycompany\padaria_vendas_e_producao\Padaria_vendas_e_producao.class
+com\mycompany\padaria_vendas_e_producao\model\Cliente.class
+com\mycompany\padaria_vendas_e_producao\dao\ClienteDAO.class
+com\mycompany\padaria_vendas_e_producao\dao\VendaDAO.class
+com\mycompany\padaria_vendas_e_producao\conexao\Conexao.class
